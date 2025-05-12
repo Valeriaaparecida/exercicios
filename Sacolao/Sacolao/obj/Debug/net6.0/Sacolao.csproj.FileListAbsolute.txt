@@ -1,0 +1,15 @@
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\Sacolao\Sacolao\bin\Debug\net6.0\Sacolao.exe
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\Sacolao\Sacolao\bin\Debug\net6.0\Sacolao.deps.json
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\Sacolao\Sacolao\bin\Debug\net6.0\Sacolao.runtimeconfig.json
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\Sacolao\Sacolao\bin\Debug\net6.0\Sacolao.dll
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\Sacolao\Sacolao\bin\Debug\net6.0\Sacolao.pdb
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\Sacolao\Sacolao\obj\Debug\net6.0\Sacolao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\Sacolao\Sacolao\obj\Debug\net6.0\Sacolao.AssemblyInfoInputs.cache
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\Sacolao\Sacolao\obj\Debug\net6.0\Sacolao.AssemblyInfo.cs
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\Sacolao\Sacolao\obj\Debug\net6.0\Sacolao.csproj.CoreCompileInputs.cache
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\Sacolao\Sacolao\obj\Debug\net6.0\Sacolao.sourcelink.json
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\Sacolao\Sacolao\obj\Debug\net6.0\Sacolao.dll
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\Sacolao\Sacolao\obj\Debug\net6.0\refint\Sacolao.dll
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\Sacolao\Sacolao\obj\Debug\net6.0\Sacolao.pdb
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\Sacolao\Sacolao\obj\Debug\net6.0\Sacolao.genruntimeconfig.cache
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\Sacolao\Sacolao\obj\Debug\net6.0\ref\Sacolao.dll

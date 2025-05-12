@@ -1,0 +1,15 @@
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\MediaNota\MediaNota\bin\Debug\net6.0\MediaNota.exe
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\MediaNota\MediaNota\bin\Debug\net6.0\MediaNota.deps.json
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\MediaNota\MediaNota\bin\Debug\net6.0\MediaNota.runtimeconfig.json
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\MediaNota\MediaNota\bin\Debug\net6.0\MediaNota.dll
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\MediaNota\MediaNota\bin\Debug\net6.0\MediaNota.pdb
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\MediaNota\MediaNota\obj\Debug\net6.0\MediaNota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\MediaNota\MediaNota\obj\Debug\net6.0\MediaNota.AssemblyInfoInputs.cache
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\MediaNota\MediaNota\obj\Debug\net6.0\MediaNota.AssemblyInfo.cs
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\MediaNota\MediaNota\obj\Debug\net6.0\MediaNota.csproj.CoreCompileInputs.cache
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\MediaNota\MediaNota\obj\Debug\net6.0\MediaNota.sourcelink.json
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\MediaNota\MediaNota\obj\Debug\net6.0\MediaNota.dll
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\MediaNota\MediaNota\obj\Debug\net6.0\refint\MediaNota.dll
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\MediaNota\MediaNota\obj\Debug\net6.0\MediaNota.pdb
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\MediaNota\MediaNota\obj\Debug\net6.0\MediaNota.genruntimeconfig.cache
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\MediaNota\MediaNota\obj\Debug\net6.0\ref\MediaNota.dll

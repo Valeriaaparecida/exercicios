@@ -1,0 +1,15 @@
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\QualNumeroEh\QualNumeroEh\bin\Debug\net6.0\QualNumeroEh.exe
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\QualNumeroEh\QualNumeroEh\bin\Debug\net6.0\QualNumeroEh.deps.json
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\QualNumeroEh\QualNumeroEh\bin\Debug\net6.0\QualNumeroEh.runtimeconfig.json
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\QualNumeroEh\QualNumeroEh\bin\Debug\net6.0\QualNumeroEh.dll
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\QualNumeroEh\QualNumeroEh\bin\Debug\net6.0\QualNumeroEh.pdb
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\QualNumeroEh\QualNumeroEh\obj\Debug\net6.0\QualNumeroEh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\QualNumeroEh\QualNumeroEh\obj\Debug\net6.0\QualNumeroEh.AssemblyInfoInputs.cache
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\QualNumeroEh\QualNumeroEh\obj\Debug\net6.0\QualNumeroEh.AssemblyInfo.cs
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\QualNumeroEh\QualNumeroEh\obj\Debug\net6.0\QualNumeroEh.csproj.CoreCompileInputs.cache
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\QualNumeroEh\QualNumeroEh\obj\Debug\net6.0\QualNumeroEh.sourcelink.json
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\QualNumeroEh\QualNumeroEh\obj\Debug\net6.0\QualNumeroEh.dll
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\QualNumeroEh\QualNumeroEh\obj\Debug\net6.0\refint\QualNumeroEh.dll
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\QualNumeroEh\QualNumeroEh\obj\Debug\net6.0\QualNumeroEh.pdb
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\QualNumeroEh\QualNumeroEh\obj\Debug\net6.0\QualNumeroEh.genruntimeconfig.cache
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\QualNumeroEh\QualNumeroEh\obj\Debug\net6.0\ref\QualNumeroEh.dll
