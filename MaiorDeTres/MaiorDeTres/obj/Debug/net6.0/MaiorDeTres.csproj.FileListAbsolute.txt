@@ -1,0 +1,15 @@
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\MaiorDeTres\MaiorDeTres\bin\Debug\net6.0\MaiorDeTres.exe
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\MaiorDeTres\MaiorDeTres\bin\Debug\net6.0\MaiorDeTres.deps.json
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\MaiorDeTres\MaiorDeTres\bin\Debug\net6.0\MaiorDeTres.runtimeconfig.json
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\MaiorDeTres\MaiorDeTres\bin\Debug\net6.0\MaiorDeTres.dll
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\MaiorDeTres\MaiorDeTres\bin\Debug\net6.0\MaiorDeTres.pdb
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\MaiorDeTres\MaiorDeTres\obj\Debug\net6.0\MaiorDeTres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\MaiorDeTres\MaiorDeTres\obj\Debug\net6.0\MaiorDeTres.AssemblyInfoInputs.cache
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\MaiorDeTres\MaiorDeTres\obj\Debug\net6.0\MaiorDeTres.AssemblyInfo.cs
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\MaiorDeTres\MaiorDeTres\obj\Debug\net6.0\MaiorDeTres.csproj.CoreCompileInputs.cache
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\MaiorDeTres\MaiorDeTres\obj\Debug\net6.0\MaiorDeTres.sourcelink.json
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\MaiorDeTres\MaiorDeTres\obj\Debug\net6.0\MaiorDeTres.dll
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\MaiorDeTres\MaiorDeTres\obj\Debug\net6.0\refint\MaiorDeTres.dll
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\MaiorDeTres\MaiorDeTres\obj\Debug\net6.0\MaiorDeTres.pdb
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\MaiorDeTres\MaiorDeTres\obj\Debug\net6.0\MaiorDeTres.genruntimeconfig.cache
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\MaiorDeTres\MaiorDeTres\obj\Debug\net6.0\ref\MaiorDeTres.dll

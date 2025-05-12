@@ -1,0 +1,15 @@
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\Par_Ou_Impar\Par_Ou_Impar\bin\Debug\net6.0\Par_Ou_Impar.exe
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\Par_Ou_Impar\Par_Ou_Impar\bin\Debug\net6.0\Par_Ou_Impar.deps.json
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\Par_Ou_Impar\Par_Ou_Impar\bin\Debug\net6.0\Par_Ou_Impar.runtimeconfig.json
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\Par_Ou_Impar\Par_Ou_Impar\bin\Debug\net6.0\Par_Ou_Impar.dll
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\Par_Ou_Impar\Par_Ou_Impar\bin\Debug\net6.0\Par_Ou_Impar.pdb
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\Par_Ou_Impar\Par_Ou_Impar\obj\Debug\net6.0\Par_Ou_Impar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\Par_Ou_Impar\Par_Ou_Impar\obj\Debug\net6.0\Par_Ou_Impar.AssemblyInfoInputs.cache
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\Par_Ou_Impar\Par_Ou_Impar\obj\Debug\net6.0\Par_Ou_Impar.AssemblyInfo.cs
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\Par_Ou_Impar\Par_Ou_Impar\obj\Debug\net6.0\Par_Ou_Impar.csproj.CoreCompileInputs.cache
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\Par_Ou_Impar\Par_Ou_Impar\obj\Debug\net6.0\Par_Ou_Impar.sourcelink.json
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\Par_Ou_Impar\Par_Ou_Impar\obj\Debug\net6.0\Par_Ou_Impar.dll
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\Par_Ou_Impar\Par_Ou_Impar\obj\Debug\net6.0\refint\Par_Ou_Impar.dll
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\Par_Ou_Impar\Par_Ou_Impar\obj\Debug\net6.0\Par_Ou_Impar.pdb
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\Par_Ou_Impar\Par_Ou_Impar\obj\Debug\net6.0\Par_Ou_Impar.genruntimeconfig.cache
+C:\Users\valer\Contacts\Desktop\C#-Nélio Alves\POO\Projetos\Par_Ou_Impar\Par_Ou_Impar\obj\Debug\net6.0\ref\Par_Ou_Impar.dll
